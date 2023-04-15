@@ -2,24 +2,38 @@
 Explore my data science projects, showcasing my skills in analysis, modeling, and visualization. Each project includes a Jupyter notebook with my methodology and insights. From predicting customer churn to analyzing marketing campaigns, I enjoy solving real-world problems. Let's collaborate!
 
 
-## Projects
+# Projects
 
-1. Breast Cancer Prediction using KNN
+## 1. [Breast Cancer Prediction using KNN](https://github.com/Jainil-Gosalia/Applied-Data-Science/tree/master/Breast%20Cancer%20Prediction%20Using%20KNN)
 
+### Project Summary
 Sure, here's an updated summary of the "Breast Cancer Prediction Using KNN" project that includes the confusion matrix:
 
 The "Breast Cancer Prediction Using KNN" project is aimed at predicting the presence of breast cancer in patients based on their cell characteristics using K-Nearest Neighbors (KNN) algorithm. The dataset contains ten attributes including cell thickness, uniformity of cell size and shape, and others, as well as a binary class variable indicating the presence or absence of breast cancer.
 
 The project used KNN algorithm to train a model on the dataset, and evaluated its performance using a test set. The model achieved an accuracy of 99%, with a high precision and recall rate for both benign and malignant cases. The confusion matrix of the model on the test set is:
 
+### Project Metrics
+
+The high accuracy and the high precision and recall rates for both classes indicate that the model is effective in predicting breast cancer using cell characteristics. This project demonstrates the potential of KNN algorithm for early detection and diagnosis of breast cancer, and its application in the medical field.
+
 |   | Predicted Negative | Predicted Positive |
 |---|---|---|
 | **Actual Negative** | 141 | 1 |
 | **Actual Positive** | 2 | 66 |
 
-The high accuracy and the high precision and recall rates for both classes indicate that the model is effective in predicting breast cancer using cell characteristics. This project demonstrates the potential of KNN algorithm for early detection and diagnosis of breast cancer, and its application in the medical field.
+### Key Insights
 
-![image](https://user-images.githubusercontent.com/32987084/232201817-aff1943e-818d-4fd3-ae13-9bd3350f5338.png)
+1. Early detection of breast cancer is critical for effective treatment and improved patient outcomes.
+2. Machine learning algorithms like KNN have the potential to assist medical professionals in identifying breast cancer at an early stage.
+3. The project highlights the importance of utilizing data analysis and machine learning techniques in healthcare to improve patient outcomes.
+4. The success of this project suggests that machine learning can be used in other areas of medical diagnosis and treatment.
+5. Collaboration between data scientists and medical professionals is essential in ensuring responsible and ethical use of machine learning in healthcare.
+
+### Tech Stack
+
+Numpy, Pandas, Matplotlib, Sklearn
+
 
 
 ## About me 
