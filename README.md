@@ -7,8 +7,6 @@ Explore my data science projects, showcasing my skills in analysis, modeling, an
 ## 1. [Breast Cancer Prediction using KNN](https://github.com/Jainil-Gosalia/Applied-Data-Science/tree/master/Breast%20Cancer%20Prediction%20Using%20KNN)
 
 ### Project Summary
-Sure, here's an updated summary of the "Breast Cancer Prediction Using KNN" project that includes the confusion matrix:
-
 The "Breast Cancer Prediction Using KNN" project is aimed at predicting the presence of breast cancer in patients based on their cell characteristics using K-Nearest Neighbors (KNN) algorithm. The dataset contains ten attributes including cell thickness, uniformity of cell size and shape, and others, as well as a binary class variable indicating the presence or absence of breast cancer.
 
 The project used KNN algorithm to train a model on the dataset, and evaluated its performance using a test set. The model achieved an accuracy of 99%, with a high precision and recall rate for both benign and malignant cases. The confusion matrix of the model on the test set is:
