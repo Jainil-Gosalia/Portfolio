@@ -19,6 +19,8 @@ The project used KNN algorithm to train a model on the dataset, and evaluated it
 
 The high accuracy and the high precision and recall rates for both classes indicate that the model is effective in predicting breast cancer using cell characteristics. This project demonstrates the potential of KNN algorithm for early detection and diagnosis of breast cancer, and its application in the medical field.
 
+![image](https://user-images.githubusercontent.com/32987084/232201817-aff1943e-818d-4fd3-ae13-9bd3350f5338.png)
+
 
 ## About me 
 
